@@ -1,3 +1,4 @@
 ###### 📫 @kurdt94 📫 
-- doing things in various languages and frameworks  
+- Things in various languages and frameworks  
 - PHP/HTML/CSS | C# | JAVASCRIPT | LUA
+> 'cause it's a secret. Under the water... Under the sea (octopus rock)
