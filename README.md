@@ -17,3 +17,13 @@ $ Owner Of
 > h t t p s : / / b o n u s x p . n l
 > h t t p s : / / k r d y . n l 
 > h t t p s : / / d i k k e . n i n j a
+
+$ Creator Of
+> Super-KRDY-Kart : https://www.youtube.com/watch?v=FHLYww-iEsM
+> Winamp-Controller : ... [ not publicly available ]
+
+$ Did some work for
+> Hugenex Computers [ 3WARE ]
+> gamepc.nl 
+> linq5.nl
+> originalshop.nl
