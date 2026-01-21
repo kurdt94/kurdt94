@@ -1,11 +1,11 @@
-# 📫 @kurdt94 📫 
+# 📫 @kurdt94 / @krdy_
 
 ```
-Messy git page , while some things can be usefull. most are not XD.
-Mainly doing things in : JAVA | PHP | LUA | JAVASCRIPT | CSS | HTML.
+"  Welcome to my GIT. Hope you find something usefull. " 
 
-If it doesn't work. Fix it !
+Mainly doing things in :
+- JAVA | PHP | BASH | LUA | JAVASCRIPT | CSS | HTML.
 
 >> Thnx for visiting <<
-Erwin Graanstra
+# kurdt94 a.k.a krdy_  
 ```
