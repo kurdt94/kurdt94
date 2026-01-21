@@ -4,6 +4,9 @@
 $ whoami
 > Mainly doing things in: JAVA, PHP, BASH, LUA, JS, CSS, HTML
 
+$ Running OS
+> Linux 6.17.9-arch1-1
+
 $ ls ~/toolbox/
 > 7-zip, bat, btop, brave, cmatrix, code, deno, dust, eza, 
 > fd, fzf, ghostty, gimp, jq, neovim, opencode, pastel, 
