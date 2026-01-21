@@ -1,4 +1,4 @@
-# 📫 @kurdt94 / @krdy_
+# 📫
 
 ```bash
 $ whoami
