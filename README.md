@@ -2,6 +2,7 @@
 
 ```bash
 $ whoami
+> @kurdt94 a.k.a @kRDY_
 > Mainly doing things in: JAVA, PHP, BASH, LUA, JS, CSS, HTML
 
 $ Running OS
