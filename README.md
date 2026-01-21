@@ -12,3 +12,8 @@ $ ls ~/toolbox/
 > 7-zip, bat, btop, brave, cmatrix, code, deno, dust, eza, 
 > fd, fzf, ghostty, gimp, jq, neovim, opencode, pastel, 
 > tldr, ripgrep, starship, vlc, yay, yazi, zed, zoxide
+
+$ Owner Of
+> h t t p s : / / b o n u s x p . n l
+> h t t p s : / / k r d y . n l 
+> h t t p s : / / d i k k e . n i n j a
