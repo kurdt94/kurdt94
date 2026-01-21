@@ -1,22 +1,10 @@
-# 📫 @kurdt94 / @krdy_                     ┌──────────────────── A B O U T ───────────────────┐
-                                            Mainly doing things in :
-                                             - JAVA, PHP, BASH, LUA, JAVASCRIPT, CSS, HTML
-   ,-.       _,---._ __  / \               └──────────────────────────────────────────────────┘   
-  /  )    .-'       `./ /   \              ┌─The crap I install───────────────────────────────┐  
-  \  `-"             \'\   / |               - #7-zip #bat #btop #brave #cmatrix
-   `.              ,  \ \ /  |               - #code #deno #dust #eza #fd #fzf 
-    /`.          ,'-`----Y   |               - #ghostty #gimp #jq #neovim
-   (            ;        |   '               - #opencode #pastel #tldr #ripgrep
-   |  ,-.    ,-'         |  /                - #starship #vlc #yay #yazi #zed #zoxide
-   |  | (   |  K R D Y . | /               └──────────────────────────────────────────────────┘
-   )  |  \  `.___________|/                
-   `--'   `--'                             
-                                           
->> Thnx for visiting <<
-# kurdt94 a.k.a krdy_ 
+# 📫 @kurdt94 / @krdy_
 
-         
-           
- 
-           
- 
+```bash
+$ whoami
+> Mainly doing things in: JAVA, PHP, BASH, LUA, JS, CSS, HTML
+
+$ ls ~/toolbox/
+> 7-zip, bat, btop, brave, cmatrix, code, deno, dust, eza, 
+> fd, fzf, ghostty, gimp, jq, neovim, opencode, pastel, 
+> tldr, ripgrep, starship, vlc, yay, yazi, zed, zoxide
